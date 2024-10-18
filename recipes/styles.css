@@ -1,5 +1,24 @@
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
 .recipe-header {
     font-size: 48px;
     color: #4d4849;
     text-align: center;
+    width: 100%;
+}
+
+.description {
+    color: #4d4849;
+    font-size: 24px;
+}
+
+a {
+    color: #07728d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4d4849;
 }
