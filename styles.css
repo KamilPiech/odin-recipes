@@ -1,0 +1,27 @@
+body {
+    background-color: #e2e2e2;
+    font-family: "Verdana", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    font-size: 24px;
+}
+
+a {
+    color: #4d4948;
+}
+
+a:hover {
+    color: green;
+}
+
+.header {
+    font-size: 64px;
+    width: 100%;
+    color: #4d4948;
+    text-align: center;
+}
