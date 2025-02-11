@@ -1,0 +1,1 @@
+The website will have a main index page and a few recipe pages. User will be able to navigate between recipe pages and the home page.
